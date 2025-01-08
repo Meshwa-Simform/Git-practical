@@ -16,10 +16,10 @@
   git --version //to check the version of the git installed.
 
 # Git setup and configure
-** Git Initialization **
+*Git Initialization*
   git init  //with the help of this command git will get initialized and a .git file will get created.
   
-** Git Configure **
+*Git Configure*
   git config --global user.name 'username'  //setting username
 
   git config --global user.email 'email'  //setting email
